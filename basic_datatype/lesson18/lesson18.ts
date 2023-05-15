@@ -12,4 +12,4 @@ function addNumberOrString(a: number | string, b: number | string) {
 
 console.log("check", addNumberOrString(2, 3))
 console.log("check", addNumberOrString('Hello', 'World'))
-console.log("check", addNumberOrString(false, 3)) //error
+// console.log("check", addNumberOrString(false, 3)) //error
